@@ -46,6 +46,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/perajarac/perajarac/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Contact me</h2>
 
 ###
